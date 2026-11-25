@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="600" viewBox="0 0 800 600">
+  <rect width="800" height="600" fill="#F3E3D0"/>
+  <g fill="none" stroke="#B55A2A" stroke-width="3" opacity="0.45">
+    <path d="M0 60 L60 0 M0 180 L180 0 M0 300 L300 0 M0 420 L420 0 M0 540 L540 0"/>
+    <path d="M800 60 L740 0 M800 180 L620 0 M800 300 L500 0 M800 420 L380 0 M800 540 L260 0"/>
+    <path d="M0 540 L260 600 M0 420 L380 600 M0 300 L500 600 M0 180 L620 600 M0 60 L740 600"/>
+    <path d="M800 540 L540 600 M800 420 L420 600 M800 300 L300 600 M800 180 L180 600 M800 60 L60 600"/>
+  </g>
+  <g fill="#D49A3A" opacity="0.7">
+    <path d="M400 90 l26 26 -26 26 -26 -26z"/>
+    <path d="M400 458 l26 26 -26 26 -26 -26z"/>
+    <path d="M170 300 l22 22 -22 22 -22 -22z"/>
+    <path d="M630 300 l22 22 -22 22 -22 -22z"/>
+  </g>
+  <g fill="#A6261E" opacity="0.75">
+    <circle cx="400" cy="300" r="12"/>
+    <circle cx="400" cy="142" r="8"/>
+    <circle cx="400" cy="458" r="8"/>
+  </g>
+  <g fill="none" stroke="#3B2313" stroke-width="2" opacity="0.25">
+    <rect x="300" y="200" width="200" height="200" transform="rotate(45 400 300)"/>
+    <rect x="330" y="230" width="140" height="140" transform="rotate(45 400 300)"/>
+  </g>
+</svg>
